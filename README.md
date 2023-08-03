@@ -1,22 +1,15 @@
 # BlogManagement
 
 <h4>Blog Management MERN (MongoDB, Express, React, Node.js) This project allows users to CRUD operations(create, read, update, and delete) blog posts.</h4>
-<br>
-
-<h4>Features</h4><br>
+<h6> <b>Features </b></h6>
 <h6>
 User-friendly interface for adding, viewing, updating, and deleting blog posts.<br>
 Data persistence with MongoDB, allowing for secure and efficient storage of blog posts.<br>
 Backend API with Express.js to handle CRUD operations on blog posts.<br>
 Real-time updates without page refresh using React's state management.<br>
 Responsive design, ensuring a seamless experience across various devices</h6><br>
-
-<h4>
-  Technologies
-
-
-
-
+<h4><b>
+  Technologies</b>
 </h4>
 <ul>
   <li> MongoDB: A NoSQL database for storing blog post data.</li>
@@ -26,12 +19,8 @@ Responsive design, ensuring a seamless experience across various devices</h6><br
 </ul>
 <br>
 <ul>
-
   <br>
   <h4>API Endpoints</h4>
-
-
-  
 <ol>
   <li>
     GET /all-blog: Fetch all blog posts.
