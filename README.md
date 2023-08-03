@@ -17,9 +17,7 @@ Responsive design, ensuring a seamless experience across various devices</h6><br
   <li>React: A JavaScript library for building user interfaces.</li>
   <li>Node.js: A JavaScript runtime for building scalable and fast server-side applications.</li>
 </ul>
-<br>
 <ul>
-  <br>
   <h4>API Endpoints</h4>
 <ol>
   <li>
@@ -33,5 +31,5 @@ Responsive design, ensuring a seamless experience across various devices</h6><br
   <li>DELETE /delete-blog/:id: Delete a blog post by ID.</li>
 </ol>
   
-   <li><h1> DEPLOY LINK ----> </h1> <a href="https://blogmanagement-hwzj.onrender.com"/> Blog Management </a> </li>
+   <li><h4> Deployed Link ----> </h4> <a href="https://blogmanagement-hwzj.onrender.com"/> Blog Management </a> </li>
 </ul>
